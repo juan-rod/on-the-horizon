@@ -5,11 +5,12 @@ $nav-height: 18em;
   -moz-osx-font-smoothing: grayscale;
   color: #2c3e50;
   width: 100%;
-  height: 100%;
-  height: 10000px;
-  padding: 0 60px;
+  height: 100vh;
+  // height: 10000px;
+  // padding: 60px;
   display: flex;
   justify-content: center;
+  align-items: center;
   overflow: hidden;
   /* 005 Young Passion: */
   background-image: linear-gradient(90deg, #B12A5B 0%, #CF556C 25%, #FF8C7F 63%, #FF8177 100%);

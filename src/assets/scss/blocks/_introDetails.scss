@@ -15,7 +15,7 @@
   }
   .main {
     margin-top: 150px;
-    width: 38%;
+    width: 50%;
     display: flex;
     flex-direction: column;
     text-align: left;
@@ -26,6 +26,7 @@
         @extend %ff__Inconsolata--700;
         position: relative;
         z-index: 1;
+        display: inline-block;
         &::after {
           content: '';
           height: 20px;

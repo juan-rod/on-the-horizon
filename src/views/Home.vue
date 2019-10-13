@@ -1,9 +1,6 @@
 <template>
-  <div class="main-page">
-    <Background-Platform />
+  <div class="main-page background-platform">
     <Intro-Details/>
-    <Teaching-Photo />
-    <About/>
   </div>
 </template>
 
